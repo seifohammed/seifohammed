@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Data analyst</h2>
+<h2 align="left">Data analysis</h2>
 
 ###
 
